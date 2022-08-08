@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "cable_input": {
+      "R1TMax": 0.0133,
+      "R2TMax": 2,
+      "R3TMax": 3,
+      "R4TMax": 4,
+      "R1TMin": 3.0079,
+      "R2TMin": 5,
+      "R3TMin": 1.0323,
+      "R4TMin": 1.155,
+      "l1": 352,
+      "l2": 232,
+      "l3": 323,
+      "l4": 312,
+      "Configuration": "Monopole"
+    }
   }
-}
