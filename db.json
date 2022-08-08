@@ -1,17 +1,17 @@
 {
-    "cable_input": {
-      "R1TMax": 0.0133,
-      "R2TMax": 2,
-      "R3TMax": 3,
-      "R4TMax": 4,
-      "R1TMin": 3.0079,
-      "R2TMin": 5,
-      "R3TMin": 1.0323,
-      "R4TMin": 1.155,
+    "input": {
+      "Q1TMax": 0.0133,
+      "Q2TMax": 2,
+      "Q3TMax": 3,
+      "Q4TMax": 4,
+      "Q1TMin": 3.0079,
+      "Q2TMin": 5,
+      "Q3TMin": 1.0323,
+      "Q4TMin": 1.155,
       "l1": 352,
       "l2": 232,
       "l3": 323,
       "l4": 312,
-      "Configuration": "Monopole"
+      "Configuration": "Test"
     }
   }
